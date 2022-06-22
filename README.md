@@ -67,7 +67,7 @@ pip install compressai
 ```
 
 ### Testing
-To run a test yourself, ```testing.py``` is provided in ```test``` folder. After downloading and placing the [pretrained gained model](https://drive.google.com/file/d/1FaVujToU4DA4SWw383-cg7Js9nC7puTp/view?usp=sharing) in the main directory, you can run the code
+To run a test yourself, ```testing.py``` is provided in ```test``` folder. After downloading and placing the [pretrained gained model](https://drive.google.com/file/d/12rTrhLtfo0s-UPuF1T-iaDve-HCuN5Nx/view?usp=sharing) in the main directory, you can run the code
 
 ```
 cd test
